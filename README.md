@@ -25,5 +25,5 @@ Most of my repositories are private as they include private projects or work for
 I’m always looking to connect with like-minded individuals who share a passion for building impactful software. If you’re interested in collaborating on exciting projects or just want to share ideas, feel free to reach out.  
 
 ---
-## https://medium.com/@juliuspleunes
+https://medium.com/@juliuspleunes
 
