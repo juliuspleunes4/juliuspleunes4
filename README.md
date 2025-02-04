@@ -13,13 +13,11 @@ I take pride in working on a wide variety of software solutions, including:
 
 ## 📊 GitHub Stats  
 
-![Julius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliuspleunes4&show_icons=true&theme=tokyonight)  
+![Julius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliuspleunes4&show_icons=true&theme=tokyonight&cache_seconds=60)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuspleunes4&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuspleunes4&layout=compact&theme=tokyonight&cache_seconds=60)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juliuspleunes4&theme=tokyonight)  
-
-[![Julius' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliuspleunes4&theme=tokyo-night)](https://github.com/juliuspleunes4)
+[![Julius' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliuspleunes4&theme=tokyo-night)](https://github.com/juliuspleunes4&cache_seconds=60)
 
 
 ## 🛠️ Technologies I Mainly Use  
