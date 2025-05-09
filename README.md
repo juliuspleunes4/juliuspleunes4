@@ -1,15 +1,17 @@
 # Hi there! 👋 I'm Julius Pleunes  
 
-I'm an enthusiastic programmer with a passion for designing and developing software that blends innovation with practicality. My expertise lies in **Python**, **Web Dev (HTML, CSS & JavaScript)**, and **React Native**, but I’m always eager to learn new technologies and push the boundaries of what’s possible.  
+I'm an enthusiastic programmer with a passion for designing and developing software that blends innovation with practicality. My expertise lies in **Python**, **C++** and I also love working with **React Native**, but I’m always eager to learn new technologies and push the boundaries of what’s possible.  
 
 ## 🌟 About Me  
 I thrive on creating software that is not only functional but also visually appealing and user-friendly. I am currently studying Computer Science at the University of Applied Sciences in Utrecht, Netherlands.
 
 ## 💻 What I Love Building  
 I take pride in working on a wide variety of software solutions, including:  
+- 🤖 **Algorithms**: As a Computer Science student specialising in Artificial Intelligence, writing algorithms and data structures is my speciality.
 - 🌐 **Cross-platform applications**: Developing tools that deliver seamless experiences on platforms like **iOS**, **Android** and **Web**.   
 - 🔒 **Secure and efficient systems**: Building tools with a strong focus on performance, reliability, and security.    
-- 🌟 **Creative personal projects**: Exploring new ideas and turning them into impactful software.  
+- 🌟 **Creative personal projects**: Exploring new ideas and turning them into impactful software.
+
 
 ## 📊 GitHub Stats  
 
@@ -21,7 +23,7 @@ I take pride in working on a wide variety of software solutions, including:
 
 
 ## 🛠️ Technologies I Mainly Use  
-- **Languages**: Python, HTML, CSS, JavaScript & React Native 
+- **Languages**: Python, C++ and React Native 
 - **Tools**: JetBrains IDEs (e.g., PyCharm, CLion), Visual Studio Code
 - **Platforms**: iOS, Web, Android and Generic Software 
 
