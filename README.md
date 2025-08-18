@@ -16,8 +16,6 @@ I take pride in working on a wide variety of software solutions, including:
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliuspleunes4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=juliuspleunes4&show_icons=true&locale=en&theme=tokyonight" alt="Julius Pleunes's GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliuspleunes4&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🛠️ Technologies I Mainly Use  
