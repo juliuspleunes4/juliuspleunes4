@@ -1,41 +1,51 @@
-# Hi there! 👋 I'm Julius Pleunes  
+# ☄️ Hey, I’m Julius Pleunes  
 
-I'm an enthusiastic programmer with a passion for designing and developing software that is both advanced and solves real-world problems.<br> 
+I’m a **Computer Science student** and **Software Engineer** with a passion for building complex systems and solving real problems.  
 
-My expertise lies in:<br>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
-I also love working with React Native (mostly as a hobby), and I’m always eager to learn new technologies and push the boundaries of what I know. 
+My favorite programming languages are **Python** 🐍 and **C++** ⚙️, and I’m deeply into **machine learning** and **complex algorithms**.
 
-## 🌟 About Me  
-I thrive on creating software that is not only functional but also visually appealing and user-friendly. I am currently studying Computer Science at the University of Applied Sciences in Utrecht, Netherlands.
-
-## 💻 What I Love Building  
-I take pride in working on a wide variety of software solutions, including:  
-- 🔒 **Advanced projects**: I love building open-source advanced projects like [L1](https://github.com/juliuspleunes4/l1)
-- 🤖 **Algorithms**: As a Computer Science student specialising in Artificial Intelligence, writing algorithms and data structures is my speciality.
-- 🌐 **Cross-platform applications**: Developing tools that deliver seamless experiences on platforms like **iOS**, **Android** and **Web**.     
-- 🌟 **Creative personal projects**: Exploring new ideas and turning them into impactful software.
-
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliuspleunes4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
-</p>
-
-## 🛠️ Technologies I Mainly Use  
-- **Languages**: Python and C++
-- **IDEs**: Visual Studio Code and JetBrains' IDEs
-- **GIT**: GitHub and GitLab
-
-## 🌐 Where to Find My Work  
-Most of my repositories are private as they include private projects or work for clients and companies.
-
-## 🚀 Let's Collaborate!  
-I’m always looking to connect with like-minded individuals who share a passion for building impactful software. If you’re interested in collaborating on exciting projects or just want to share ideas, feel free to reach out.  
+When I’m not working on advanced backends or training models, you’ll probably find me experimenting with **React**, **React Native**, and **𝝠 Expo** — my guilty pleasure 💙  
 
 ---
-> [!TIP]
-> You can explore my [LinkedIn profile](https://www.linkedin.com/in/juliuspleunes) to see more about my projects, certifications, and professional journey.  
+
+## 🌌 What I Love Creating  
+- 🧠 **Machine Learning projects** — I enjoy crafting intelligent systems and exploring how AI can understand and predict the world.  
+- 🔬 **Complex algorithms** — there’s something deeply satisfying about efficient logic and elegant data structures.  
+- 🧰 **Open-source projects** — like [L1](https://github.com/juliuspleunes4/l1), and [Cellex](https://github.com/juliuspleunes4/cellex)
+- ⚡ **Cross-platform tools** — clean, functional apps that run smoothly on iOS, Android, and the web.  
+
+---
+
+## 🛠️ Tech I Use Most  
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="48" height="48"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
+  </a>
+</p>
+
+**Frameworks:** PyTorch, React, React Native, Expo  
+**Tools:** VS Code, JetBrains IDEs, GitHub, GitLab  
+
+---
+
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliuspleunes4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Let’s Connect  
+I’m always open to collaborating on projects, learning new technologies, or just talking about creative software ideas.  
+Let’s build something amazing together.  
+
+🔗 [**LinkedIn — Julius Pleunes**](https://www.linkedin.com/in/juliuspleunes)  
+
+---
+
+> _“Code is art — the beauty lies in the logic.”_
