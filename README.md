@@ -11,8 +11,7 @@ I enjoy working close to the metal, designing clean abstractions, and occasional
 - Builder mindset — I like turning ideas into tangible, well-documented projects
 - Always open to collaborating on **interesting, ambitious projects**
 
-🔗 **LinkedIn**  
-[**Julius Pleunes**](https://www.linkedin.com/in/juliuspleunes)
+🔗 **LinkedIn** — [**Julius Pleunes**](https://www.linkedin.com/in/juliuspleunes)
 
 ---
 
